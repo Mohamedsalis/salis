@@ -1,0 +1,17 @@
+curl https://api.github.com/repos/Mohamedsalis/microblogging-platform/forks
+
+{
+  "id": 123456789,
+  "node_id": "R_kgDOExample",
+  "full_name": "Mohamedsalis/microblogging-platform",
+  "private": false,
+  "owner": {
+    "login": "Mohamedsalis",
+    "id": 12345678,
+    "type": "User"
+  },
+  "fork": true,
+  "html_url": "https://github.com/Mohamedsalis/microblogging-platform",
+  "description": "Forked microblogging platform repository",
+  "url": "https://api.github.com/repos/Mohamedsalis/microblogging-platform"
+}
